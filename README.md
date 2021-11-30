@@ -1,2 +1,2 @@
 # FB2BookParser
-Simple FB2 Book Parser
+The actual code snippet to parse FB2 fromat book using C#.
